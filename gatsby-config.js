@@ -12,7 +12,7 @@ module.exports = {
     title: `Lodge Roest`,
     description: `Bed and breakfast in de Ardennen.`,
     author: `Rien Roest`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    siteUrl: `https://gentle-smoke-0c72a0703.3.azurestaticapps.net/`,    
   },
   plugins: [
     `gatsby-plugin-image`,
